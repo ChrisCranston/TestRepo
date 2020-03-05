@@ -645,3 +645,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-13.11.27:079][952]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.03.05-13.11.27:079][952]SourceControl:  create mode 100644 Content/ThirdPersonBP/NewBlueprint1.uasset
 [2020.03.05-13.11.27:093][952]SourceControl: Commited [master 5073286] Added test blueprint.
+[2020.03.05-13.12.04:849][226]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2020.03.05-13.12.05:935][290]Cmd: DELETE
+[2020.03.05-13.12.05:935][290]Cmd: ACTOR DELETE
+[2020.03.05-13.12.05:985][290]LogEditorActor: Deleted Actor: Actor
+[2020.03.05-13.12.06:011][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.03.05-13.12.06:012][290]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.03.05-13.12.06:974][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.12.08:525][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.05-13.12.09:724][435]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.05-13.12.09:907][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.03.05-13.12.09:938][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.03.05-13.12.09:967][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.05-13.12.10:140][435]SourceControl: Error: Updated 0 paths from the index
+[2020.03.05-13.12.10:262][435]SourceControl: rm 'Content/ThirdPersonBP/NewBlueprint1.uasset'
+[2020.03.05-13.12.12:761][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../Projects/TestRepo1/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.05-13.12.12:786][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.05-13.12.13:520][579]LogSavePackage: Moving '../../../../Projects/TestRepo1/Saved/Level17738F49D4C949A2F50705C823C987FE3.tmp' to '../../../../Projects/TestRepo1/Content/Levels/Level1.umap'
+[2020.03.05-13.12.13:540][579]LogFileHelpers: Saving map 'Level1' took 0.780
+[2020.03.05-13.12.15:087][668]SourceControl: fatal: D:/Unreal/UE_4.23/Engine/Content: 'D:/Unreal/UE_4.23/Engine/Content' is outside repository
+[2020.03.05-13.12.20:815][668]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.05-13.12.21:862][668]LogSourceControl: commit successful: [master 300a1cd] removed files
+[2020.03.05-13.12.21:956][668]SourceControl: [master 300a1cd] removed files
+[2020.03.05-13.12.21:956][668]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.03.05-13.12.21:956][668]SourceControl:  delete mode 100644 Content/ThirdPersonBP/NewBlueprint1.uasset
+[2020.03.05-13.12.21:968][668]SourceControl: Commited [master 300a1cd] removed files.
